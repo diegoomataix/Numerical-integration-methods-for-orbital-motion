@@ -12,3 +12,6 @@ Content:
 - Lyapunov Orbits L1 L2 L3
 - Henon-Heiles system
 - Comparisons between the various integrators used
+
+
+Made in collaboration with: temisAP, andrea-bravo, lauragrc
